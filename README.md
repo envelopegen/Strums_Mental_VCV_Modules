@@ -1,3 +1,9 @@
+fork of Strum's Mental for messing with gui design... envgen72@gmail.com
+
+for the real thing -> https://github.com/Strum/Strums_Mental_VCV_Modules/ 
+
+------------------------------------------------------------------------------------------------
+
 Strum's Mental VCV Module Suite
 
 strum@softhome.net
@@ -77,12 +83,17 @@ Patch Matrix -
 Binary decoder - 
   3 bit binary decoder true at one of 8 outputs dependent on logic state of the 3 inputs
   
-8 way switch - based on binary decoder, switches a signal to one of 8 outputs based on 3 bit selector inputs
+8 way switch - 
+based on binary decoder, switches a signal to one of 8 outputs based on 3 bit selector inputs
 
-8 to 1 Mux - The reverse of the 8 way switch, 8 inputs 1 out selected with 3 logic inputs
+8 to 1 Mux - 
+The reverse of the 8 way switch, 8 inputs 1 out selected with 3 logic inputs
 
-Dual Counters - for euclidean rhythms
+Dual Counters - 
+for euclidean rhythms
 
-Knobs - Outputs constants continous or stepped by integer ro semitone, uni or bipolar
+Knobs - 
+Outputs constants continous or stepped by integer ro semitone, uni or bipolar
 
-Gate Maker - Counter with delay before opening and after closing, cycle or one shot mode - BETA
+Gate Maker - 
+Counter with delay before opening and after closing, cycle or one shot mode - BETA
