@@ -1,5 +1,12 @@
 fork of Strum's Mental for messing with gui design... envgen72@gmail.com
 
+in progress:
+Gates
+A/B Switches
+Counters
+Master Clock
+
+
 for the real thing -> https://github.com/Strum/Strums_Mental_VCV_Modules/ 
 
 ------------------------------------------------------------------------------------------------
